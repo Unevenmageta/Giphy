@@ -1,0 +1,54 @@
+.buttonBoi{
+    padding: 5px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    background-color: orange;
+}   
+
+#description{
+
+      color: white;  
+}
+
+
+
+p{
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
+    color: red;
+
+}
+
+body{
+
+    background-color: rgba(22, 206, 206, 0.473);
+    
+
+   
+
+ 
+}
+
+
+#main-div{
+    
+
+    margin-top: 15px;
+}
+
+
+#button-div{
+padding: 20px;
+
+}
+
+#searchButton{
+    margin-left: 15px;
+}
+
+
+.gif{
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow;
+}
